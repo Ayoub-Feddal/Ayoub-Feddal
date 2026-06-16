@@ -7,6 +7,16 @@ I am currently focused on transitioning my expertise in financial modeling and d
 
 ---
 
+## 🚀 Featured Projects:
+### Greggs PLC Driver-Based Simulator
+
+I recently developed a dynamic financial simulator for Greggs PLC that bridges the gap between operational KPIs and enterprise-level financial performance.
+
+*   **What it does:** Automates scenario analysis to visualize the impact of operational shifts (e.g., footfall, inflation) on EBITDA and PBT.
+*   **Tech Stack:** Python (Pandas/NumPy), IFRS 16 financial logic, and scenario-based forecasting.
+*   **Key Deliverable:** [(https://github.com/Ayoub-Feddal/Driver-Based-Operational-and-Financial-Simulator)]
+
+---
 ## 💼 Professional Background
 *   **Financial Analyst @ SARL SADACTS:** Driving cost accounting, compliance, and strategic management reporting in a cross-border environment (Algerian/Chinese teams).
 *   **Education:** BSc (Hons) in Accounting with Management, Ulster University.
