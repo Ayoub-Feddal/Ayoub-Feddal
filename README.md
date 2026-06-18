@@ -16,6 +16,11 @@ I recently developed a dynamic financial simulator for Greggs PLC that bridges t
 *   **Tech Stack:** Python (Pandas/NumPy), IFRS 16 financial logic, and scenario-based forecasting.
 *   **Key Deliverable:** [(https://github.com/Ayoub-Feddal/Driver-Based-Operational-and-Financial-Simulator)]
 
+### Automated FP&A Variance Analysis & Reporting Engine - Greggs PLC
+
+I developed a robust, automated variance analysis engine to modernize monthly budget-to-actual reporting. The model replaces manual reconciliation processes with a dynamic, materiality-driven logic (>=5% or >=GBP 10,000k), enabling the rapid identification and escalation of critical financial drivers.
+
+* **This project utilizes synthetic, illustrative data modeled on publicly available financial disclosures for Greggs PLC. This is independent analysis and is not affiliated with, endorsed by, or representative of the internal financial data of Greggs PLC.**
 ---
 ## 💼 Professional Background
 *   **Financial Analyst @ SARL SADACTS:** Driving cost accounting, compliance, and strategic management reporting in a cross-border environment (Algerian/Chinese teams).
